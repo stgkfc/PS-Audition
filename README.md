@@ -5,6 +5,6 @@ This lab is submitted for consideration as my security audition for PluralSight 
 # Environment
 Any Ubuntu 20.04 machine, this can be a local instance as well as a cloud-based. You just need the ability to run Wireshark. The capture file is located here as well as can be downloded from the Internet. In your Ubuntu 20.04 Desktop run the **console.sh"" script and this will install Wireshark and also download the **Capture.pcapng** file to the Downloads folder.
 # Learner Instructions
-You will need to follow along in the [Lab Instructions](./Lab%20instructions.md) we've provided in this repo. They should be run from the **Ubuntu 20.04 Desktop** machine you have set up.
+You will need to follow along in the [Lab Instructions](./Lab%20Instructions.md) we've provided in this repo. They should be run from the **Ubuntu 20.04 Desktop** machine you have set up.
 
 Please feel free to reach out if you have any questions!
