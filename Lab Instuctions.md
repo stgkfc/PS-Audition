@@ -46,7 +46,7 @@ i.	Once we have data and we have streams, the next step is to see if we can dete
 9.	Now that we have the background, let us look at the capture file from the Level One analyst and provide our methodology to it for our analysis.
 10.	Now let's open up Wireshark itself by going to the left side of the Desktop and selecting the **Applications** Button.
 ![](./SS1.png)
-12.	In the Search bar enter **Wireshark**.
-13. Once the program opens, click on **File | Open** and navigate to the **Downloads** folder and open the **Capture.pcapng** file that is located there.
-14. As soon as the file opens it should JUMP out at you that something is not right! If it does not, do not worry you will learn as you enhance your skills.
-15. 
+11.	In the Search bar enter **Wireshark**.
+12. Once the program opens, click on **File | Open** and navigate to the **Downloads** folder and open the **Capture.pcapng** file that is located there.
+13. As soon as the file opens it should JUMP out at you that something is not right! If it does not, do not worry you will learn as you enhance your skills.
+14. 
