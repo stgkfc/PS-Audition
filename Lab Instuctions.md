@@ -45,7 +45,6 @@ e.	Signs of compromise
 i.	Once we have data and we have streams, the next step is to see if we can determine the signs of compromise
 9.	Now that we have the background, let us look at the capture file from the Level One analyst and provide our methodology to it for our analysis.
 10.	Now let's open up Wireshark itself by going to the left side of the Desktop and selecting the **Applications** Button.
-    
 ![](./SS1.png)
 12.	In the Search bar enter **Wireshark**.
 13. Once the program opens, click on **File | Open** and navigate to the **Downloads** folder and open the **Capture.pcapng** file that is located there.
